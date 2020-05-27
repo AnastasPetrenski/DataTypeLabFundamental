@@ -1,0 +1,11 @@
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\bin\Debug\netcoreapp3.1\ConvertStringToInteger.exe
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\bin\Debug\netcoreapp3.1\ConvertStringToInteger.deps.json
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\bin\Debug\netcoreapp3.1\ConvertStringToInteger.runtimeconfig.json
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\bin\Debug\netcoreapp3.1\ConvertStringToInteger.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\bin\Debug\netcoreapp3.1\ConvertStringToInteger.dll
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\bin\Debug\netcoreapp3.1\ConvertStringToInteger.pdb
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\obj\Debug\netcoreapp3.1\ConvertStringToInteger.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\obj\Debug\netcoreapp3.1\ConvertStringToInteger.AssemblyInfo.cs
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\obj\Debug\netcoreapp3.1\ConvertStringToInteger.dll
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\obj\Debug\netcoreapp3.1\ConvertStringToInteger.pdb
+C:\Users\anastas\source\repos\UsefulExamples\ConvertStringToInteger\obj\Debug\netcoreapp3.1\ConvertStringToInteger.csprojAssemblyReference.cache
